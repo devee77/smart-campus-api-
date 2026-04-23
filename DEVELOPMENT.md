@@ -37,3 +37,4 @@
 ✓ Sensor operations and filtering
 ✓ Sub-resource pattern and reading history
 ✓ Exception mappers and error handling
+✓ API logging and observability
