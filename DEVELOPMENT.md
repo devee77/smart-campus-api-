@@ -31,3 +31,4 @@
 - Implemented ApiLoggingFilter with request/response logging
 - Project complete and ready for submission
 
+✓ Discovery endpoint
