@@ -34,3 +34,4 @@
 ✓ Discovery endpoint
 ✓ Room CRUD endpoints
 ✓ Room deletion safety logic
+✓ Sensor operations and filtering
