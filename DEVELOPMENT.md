@@ -35,3 +35,4 @@
 ✓ Room CRUD endpoints
 ✓ Room deletion safety logic
 ✓ Sensor operations and filtering
+✓ Sub-resource pattern and reading history
