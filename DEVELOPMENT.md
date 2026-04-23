@@ -32,3 +32,4 @@
 - Project complete and ready for submission
 
 ✓ Discovery endpoint
+✓ Room CRUD endpoints
