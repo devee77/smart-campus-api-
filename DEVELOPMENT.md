@@ -33,3 +33,4 @@
 
 ✓ Discovery endpoint
 ✓ Room CRUD endpoints
+✓ Room deletion safety logic
